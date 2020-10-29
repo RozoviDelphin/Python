@@ -1,0 +1,16 @@
+a=float(input("Введите число  a="))
+Simbol=input("Выберите необходимое действие")
+b=float(input("Введите число  b="))
+
+if Simbol == '+':
+    c=a+b
+    print (c)
+if Simbol == '-':
+    c=a-b
+    print (c)
+if Simbol == '*':
+    c=a*b
+    print(c)
+if Simbol == '/':
+    c=a/b
+    print (c)
