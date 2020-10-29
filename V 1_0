@@ -14,3 +14,4 @@ if Simbol == '*':
 if Simbol == '/':
     c=a/b
     print (c)
+X=input("Нажмите любую кнопку для закрытия...")
